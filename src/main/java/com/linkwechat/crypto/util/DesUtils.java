@@ -13,7 +13,7 @@ import javax.crypto.spec.SecretKeySpec;
  * @author linkwechat 2017年3月1日 上午11:46:42
  * @version 1.0
  */
-public class DesUtil {
+public class DesUtils {
 
     /**
      * DES加密算法
